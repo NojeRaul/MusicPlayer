@@ -1,0 +1,16 @@
+ARTIST="Avicii"
+TITLE="Wake me up"
+LINK="https://www.youtube.com/watch?v=-tU-aW-oqsk&ab_channel=JessicaSimpson-Topic"
+LYRICS="lyrics"
+fsdf
+dfsd
+sdf
+sf
+fsdfaa
+dfsd
+sdf
+sf
+fsdfaa
+dfsd
+sdfss
+sf
